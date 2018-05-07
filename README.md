@@ -5,4 +5,4 @@ This project will be done in 3 iterations.This is the first experiment where i u
 
 2.Iter 2:Here we will be trying to train from scratch.May be again a resnet type architecture(with skip connections),in iter 1,i have taken random sample for validation but the dataset is unbalanced so we got to tweak that a bit.
 
-3.This can be used to finally increase the accuracy by using test dataset where we take the labels those predicted by  already trained network and again train for a iteration.We can also do model averaging.
+3.This can be used to finally increase the accuracy by using test dataset where we take the labels as those predicted by  already trained network and again train the same for a iteration.We can also do model averaging.(train multiple models)
